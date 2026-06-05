@@ -6,6 +6,12 @@
     "verifier": "sixfevers/fwogreal",
     "verification": "https://youtu.be/bZcV1-TWqX4",
     "percentToQualify": 100,
-    "records": [
-]
+    "records": 
+    [
+        {"user": "majk_pan003",
+        "link": "https://youtu.be/0SmpJCtPgag",
+        "percent": 100,
+        "hz": 60
+    }
+    ]
 }
