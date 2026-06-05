@@ -5,7 +5,7 @@
     "creators": ["enzygmd"],
     "verifier": "enzygmd",
     "verification": "https://youtu.be/BnbxLWeIFoA",
-    "percentToQualify": "50",
+    "percentToQualify": 50,
     "records": [
 ]
 }
