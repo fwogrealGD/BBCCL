@@ -1,8 +1,8 @@
 :root {
-    --color-background: white;
-    --color-on-background: rgb(0, 77, 10);
-    --color-background-hover: #eee;
-    --color-on-background-hover: black;
+    --color-background: rgb(29, 73, 0);
+    --color-on-background: #ffffff;
+    --color-background-hover: rgb(152, 129, 54);
+    --color-on-background-hover: rgb(255, 255, 255);
     --color-primary: rgb(186, 159, 67);
     --color-on-primary: white;
     --color-error: #de0000;
