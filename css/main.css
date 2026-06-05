@@ -3,8 +3,8 @@
     --color-on-background: rgb(46, 0, 86);
     --color-background-hover: rgb(235, 235, 235);
     --color-on-background-hover: rgb(0, 0, 0);
-    --color-primary: rgb(255, 255, 255);
-    --color-on-primary: rgb(46, 0, 86);
+    --color-primary: rgb(46, 0, 86);
+    --color-on-primary: rgb(255, 255, 255);
     --color-error: #de0000;
     --color-on-error: white;
 }
