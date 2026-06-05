@@ -1,18 +1,17 @@
 {
-    "id": 57436521,
-    "name": "SampleLevel1",
-    "author": "LevelUploader",
-    "creators": ["Creator1", "Creator2", "Creator3"],
-    "verifier": "Verifier",
-    "verification": "https://www.youtube.com/watch?v=ISTl28wKSXc",
-    "percentToQualify": 56,
-    "password": "Not Copyable",
+    "id": 2381061,
+    "name": "Bacon Maybe Clear",
+    "author": "deacnome",
+    "creators": ["deacnome"],
+    "verifier": "deacnome",
+    "verification": "https://medal.tv/games/roblox/clips/ms27gchE2ZTHjsjaF?invite=cr-MSxBM3MsNjUyMDg3Njc0",
+    "percentToQualify": 15,
     "records": [
         {
-            "user": "Sample_Victor_1",
-            "link": "https://www.youtube.com/watch?v=MgJeijBGKHU",
-            "percent": 100,
-            "hz": 360
+            "user": "",
+            "link": "",
+            "percent": 0,
+            "hz": 0
         }
     ]
 }
