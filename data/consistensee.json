@@ -1,17 +1,11 @@
 {
     "id": 2309988,
     "name": "consistensee",
-    "author": "sixfevers",
-    "creators": ["sixfevers"],
-    "verifier": "sixfevers",
+    "author": "sixfevers/fwogreal",
+    "creators": ["sixfevers/fwogreal"],
+    "verifier": "sixfevers/fwogreal",
     "verification": "https://youtu.be/VSfViC9WQJ0",
     "percentToQualify": 100,
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 0,
-            "hz": 0
-        }
-    ]
+]
 }

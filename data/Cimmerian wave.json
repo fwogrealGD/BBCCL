@@ -1,17 +1,11 @@
 {
     "id": 2427947,
     "name": "Cimmerian wave",
-    "author": "sixfevers",
-    "creators": ["sixfevers"],
-    "verifier": "sixfevers",
+    "author": "sixfevers/fwogreal",
+    "creators": ["sixfevers/fwogreal"],
+    "verifier": "sixfevers/fwogreal",
     "verification": "https://youtu.be/KI8jU-Ul2Dw",
     "percentToQualify": 72,
     "records": [
-        {
-            "user": "",
-            "link": "",
-            "percent": 0,
-            "hz": 0
-        }
     ]
 }
