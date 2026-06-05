@@ -2,7 +2,7 @@
     "id": 2579105,
     "name": "Slaughterhouse Wave Spam",
     "author": "yoriichi_80",
-    "creator": "yoriichi_80",
+    "creator": ["yoriichi_80"],
     "verifier": "yoriichi_80",
     "verification": "https://www.youtube.com/watch?v=XCVa4fH0oxk",
     "percentToQualify": "100",
@@ -18,6 +18,12 @@
         "link": "https://youtu.be/lDHG5orDq2A",
         "percent": 100,
         "hz": 60
+    },
+    {
+        "user": "cache",
+        "link": "https://www.youtube.com/shorts/E08B8k69jNM",
+        "percent": 100,
+        "hz": 144
     }
     ]
 }
