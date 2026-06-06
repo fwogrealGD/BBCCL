@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=VwVTU8C7u-0",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/ZXjWr3S4l40",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

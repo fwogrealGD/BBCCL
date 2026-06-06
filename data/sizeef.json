@@ -1,0 +1,17 @@
+{
+    "id": 2673469,
+    "name": "sizeef",
+    "author": "yoriichi_80",
+    "creators": ["yoriichi_80"],
+    "verifier": "yoriichi_80",
+    "verification": "https://www.youtube.com/shorts/6jYPHU0VR5g",
+    "percentToQualify": 100,
+    "records": [    
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/unFOJ1NZV4g",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
