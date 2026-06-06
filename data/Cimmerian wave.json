@@ -7,5 +7,17 @@
     "verification": "https://youtu.be/KI8jU-Ul2Dw",
     "percentToQualify": 72,
     "records": [
+       {
+            "user": "z1mb1s",
+            "link": "https://www.youtube.com/watch?v=VwVTU8C7u-0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "cache",
+            "link": "https://www.youtube.com/shorts/E5s8HQDORo4",
+            "percent": 100,
+            "hz": 144
+        }
     ]
 }

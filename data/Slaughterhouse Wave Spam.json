@@ -24,6 +24,12 @@
         "link": "https://www.youtube.com/shorts/E08B8k69jNM",
         "percent": 100,
         "hz": 144
-    }
+    },
+    {
+            "user": "z1mb1s",
+            "link": "https://www.youtube.com/watch?v=VwVTU8C7u-0",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
