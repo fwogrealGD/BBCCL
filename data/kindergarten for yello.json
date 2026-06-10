@@ -1,0 +1,17 @@
+{
+    "id": 2688428,
+    "name": "kindergarten for yello",
+    "author": "citrusful",
+    "creators": ["citrusful"],
+    "verifier": "citrusful",
+    "verification": "https://youtu.be/SRugmyDpWdM",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/NuBXgfFokRo",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
