@@ -1,0 +1,17 @@
+{
+    "id": 2692791,
+    "name": "zinc",
+    "author": "citrusful",
+    "creators": ["citrusful"],
+    "verifier": "citrusful",
+    "verification": "https://youtu.be/z09B9ckdGR0",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/QQTUai0vQ10",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
