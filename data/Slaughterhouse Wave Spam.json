@@ -42,12 +42,18 @@
             "link": "https://youtu.be/bFHjjMHLcpI?is=LcKEwaEzFnWt4KQH",
             "percent": 100,
             "hz": 240
-        },
-        {
+    },
+    {
             "user": "enzygmd",
             "link": "https://youtu.be/t-kINazwgdE",
             "percent": 100,
             "hz": 165
-        }
+    },
+    {
+            "user": "ploobie",
+            "link": "https://m.youtube.com/watch?v=Yx2l12RTAuw&pp=0gcJCTkLAYcqIYzv&ra=m",
+            "percent": 100,
+            "hz": 60
+    }
     ]
 }

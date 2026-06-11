@@ -42,6 +42,12 @@
             "link": "https://youtu.be/bFHjjMHLcpI?is=LcKEwaEzFnWt4KQH",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ploobie",
+            "link": "https://m.youtube.com/watch?v=C-8jA_QV48c&ra=m",
+            "percent": 100,
+            "hz": 60
         }
 ]
 }

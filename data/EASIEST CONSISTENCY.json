@@ -6,7 +6,8 @@
     "verifier": "citrusful",
     "verification": "https://youtu.be/k5-IFDkovbM",
     "percentToQualify": 100,
-    "records": [{
+    "records": [
+        {
             "user": "z1mb1s",
             "link": "https://medal.tv/games/roblox/clips/mT9Lf7CCFB2uG3Yv3?invite=cr-MSxKWWwsNDk3Nzc3MzQw",
             "percent": 100,
