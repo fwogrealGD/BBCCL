@@ -7,5 +7,18 @@
     "verification": "https://youtu.be/D0MjQ2C5c6w",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "citrusful",
+            "link": "https://medal.tv/games/roblox/clips/mTQEUEu3qw9Wg2KEF?invite=cr-MSxnWFEsNjUyMDg3Njc0",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "enzygmd",
+            "link": "https://youtu.be/5OpEDilf6Z4",
+            "percent": 100,
+            "hz": 165
+        }
+
     ]
 }

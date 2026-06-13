@@ -1,0 +1,17 @@
+{
+    "id": 2702225,
+    "name": "dastinity chall",
+    "author": "cache",
+    "creators": ["cache"],
+    "verifier": "cache",
+    "verification": "https://youtube.com/shorts/IhwoK7_7OY8?feature=share",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/50xlKqo0GiY",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
