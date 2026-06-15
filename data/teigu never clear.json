@@ -1,0 +1,18 @@
+{
+    "id": 2713000,
+    "name": "teigu never clear",
+    "author": "cache",
+    "creators": ["cache"],
+    "verifier": "cache",
+    "verification": "https://www.youtube.com/watch?v=zlMIJFogeKo",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/v05lQwneyGM",
+            "percent": 100,
+            "hz": 60
+
+        }
+    ]
+}
