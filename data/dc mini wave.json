@@ -1,0 +1,18 @@
+{
+    "id": 2742128,
+    "name": "dc mini wave",
+    "author": "cache",
+    "creators": ["cache"],
+    "verifier": "cache",
+    "verification": "https://youtube.com/watch?v=FlczsPaImnE?feature=share",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://youtu.be/EV5ove3y5yg",
+            "percent": 100,
+            "hz": 60
+
+        }
+    ]
+}
