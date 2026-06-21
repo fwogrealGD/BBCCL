@@ -100,7 +100,7 @@ export default {
                     </template>
                     <h3>Submission Requirements</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                         without using hacks (however, FPS bypass is allowed, up to 360fps)
                     </p>
                     <p>
                         Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
@@ -123,6 +123,8 @@ export default {
                     <p>
                         Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
                     </p>
+                    <p>
+                        Any submitted level must not have a cps rate over 12 clicks per second for more than 2 seconds, and the portion that is over 12 cps should not be half or more than half of the gameplay.
                 </div>
             </div>
         </main>
