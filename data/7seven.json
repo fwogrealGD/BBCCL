@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/hrwZHcfrtoM",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "cache",
+            "link": "https://youtube.com/shorts/tvQCwpTEtKU?feature=share",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
