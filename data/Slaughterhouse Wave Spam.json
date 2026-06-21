@@ -54,6 +54,12 @@
             "link": "https://m.youtube.com/watch?v=Yx2l12RTAuw&pp=0gcJCTkLAYcqIYzv&ra=m",
             "percent": 100,
             "hz": 60
-    }
+    },
+    {
+            "user": "okman241",
+            "link": "https://www.youtube.com/watch?v=IC95R4oGCoc",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
