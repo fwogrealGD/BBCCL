@@ -125,6 +125,7 @@ export default {
                     </p>
                     <p>
                         Any submitted level must not have a cps rate over 12 clicks per second for more than 2 seconds, and the portion that is over 12 cps should not be half or more than half of the gameplay.
+                    </p>
                 </div>
             </div>
         </main>
