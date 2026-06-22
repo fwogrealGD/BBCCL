@@ -30,6 +30,12 @@
             "link": "https://www.youtube.com/watch?v=IC95R4oGCoc",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "benjithedino",
+            "link": "https://www.youtube.com/shorts/UYYkXr8ynvE",
+            "percent": 100,
+            "hz": 144
         }
     ]
 }
