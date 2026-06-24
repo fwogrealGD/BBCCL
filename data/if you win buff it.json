@@ -1,0 +1,17 @@
+{
+    "id": 392869,
+    "name": "if you win buff it",
+    "author": "Thebacon_gamer25",
+    "creators": ["Thebacon_gamer25"],
+    "verifier": "Thebacon_gamer25",
+    "verification": "https://www.youtube.com/watch?v=t7Tswjqgoto",
+    "percentToQualify": 100,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://www.youtube.com/watch?v=aVUtJBIsPX0",
+            "percent": 100,
+            "hz": 60
+        }
+    ]
+}
