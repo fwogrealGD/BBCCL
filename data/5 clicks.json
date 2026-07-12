@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/oclyQKcusAk",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "alex",
+            "percent": 100,
+            "hz": 240,
+            "link": "https://medal.tv/games/roblox/clips/mw8jRGeviwcXLzkc4?invite=cr-MSwzQk4sNTgzMTc4NjMx"
+        }
     ]
 }
