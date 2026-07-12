@@ -2,14 +2,15 @@
     "id": 2711428,
     "name": "swing bing",
     "author": "sixfevers/fwogreal",
-    "creators": ["sixfevers/fwogreal"],
+    "creators": [],
     "verifier": "sixfevers/fwogreal",
-    "verification": "https://youtu.be/6CSr73qLpB4",
+    "verification": "https://youtu.be",
     "percentToQualify": 100,
+    "desc": "No description provided.",
     "records": [
         {
             "user": "okman241",
-            "link": "https://youtu.be/yhHrBNLOc1A",
+            "link": "https://youtu.be",
             "percent": 100,
             "hz": 240
         }
