@@ -1,0 +1,17 @@
+{
+    "id": 2773747,
+    "name": "radium infernal",
+    "author": "ragechae",
+    "creators": ["ragechae"],
+    "verifier": "ragechae",
+    "verification": "https://www.youtube.com/watch?v=ex4x4OL_80M",
+    "percentToQualify": 80,
+    "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://www.youtube.com/watch?v=5Go7pKdWmu4",
+            "percent": 100,
+            "hz": 60
+        }
+    ] 
+}
