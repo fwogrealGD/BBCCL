@@ -66,6 +66,12 @@
             "link": "https://www.youtube.com/shorts/1VzjHL-zdz4",
             "percent": 100,
             "hz": 144
+        },
+        {
+            "user": "lefty",
+            "link": "https://youtu.be/bNUZ7MGoKxo",
+            "percent": 100,
+            "hz": 240
         }
     ]
 }
