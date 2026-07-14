@@ -66,6 +66,18 @@
             "link": "https://youtu.be/bNUZ7MGoKxo",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "ragechae",
+            "link": "https://www.youtube.com/watch?v=9aVQFzw6j5M",
+            "percent": 100,
+            "hz": 120
+        },
+        {
+            "user": "danoob",
+            "link": "https://youtu.be/1nvz1m3a5ws?si=wPVfM39FhO2cCrjq",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }

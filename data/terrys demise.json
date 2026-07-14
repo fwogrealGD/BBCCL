@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/PCdCB3lopdc",
     "percentToQualify": 57,
     "records": [
+        {
+            "user": "ryan666piggy",
+            "link": "https://youtu.be/1nvz1m3a5ws?si=wPVfM39FhO2cCrjq",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
