@@ -1,6 +1,6 @@
 {
     "id": 2306876,
-    "name": "named 240",
+    "name": "named 420",
     "author": "citrusful",
     "creators": ["citrusful"],
     "verifier": "citrusful",
@@ -12,6 +12,18 @@
             "link": "https://medal.tv/games/roblox/clips/mT9Lf7CCFB2uG3Yv3?invite=cr-MSxKWWwsNDk3Nzc3MzQw",
             "percent": 100,
             "hz": 240
+        },
+        {
+            "user": "okman241",
+            "link": "https://www.youtube.com/watch?v=Pg56wzQ94pA",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "P3nguin5",
+            "link": "https://youtu.be/3FtLGBgL-cM?si=GYgqovSQn2TxqGdA",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
