@@ -12,6 +12,12 @@
             "link": "https://www.youtube.com/watch?v=5Go7pKdWmu4",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "okman241",
+            "link": "https://youtu.be/r0S3_xfXQNI",
+            "percent": 100,
+            "hz": 240
         }
     ] 
 }

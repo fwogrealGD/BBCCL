@@ -7,5 +7,11 @@
     "verification": "https://www.youtube.com/watch?v=ci_oBOWgLKY",
     "percentToQualify": 79,
     "records": [
+        {
+            "user": "alex",
+            "link": "https://medal.tv/games/screen-capture/clips/n5v4If7Rh_UFXRYuP?invite=cr-MSxEVmssNTgzMTc4NjMx",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
