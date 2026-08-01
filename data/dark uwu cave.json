@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/ziE3q3kPsXY",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "sixfevers/fwogreal",
+            "link": "https://www.youtube.com/watch?v=jDyVJ-gWqAc",
+            "percent": 100,
+            "hz": 60
+        }
     ]
 }
