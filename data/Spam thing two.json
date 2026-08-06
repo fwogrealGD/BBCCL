@@ -7,5 +7,11 @@
     "verification": "https://youtu.be/BBI2dA_X1NQ?si=Ma2cyhaTaIBdPsb6",
     "percentToQualify": 100,
     "records": [
+        {
+            "user": "okman241",
+            "link": "https://www.youtube.com/watch?v=3qBxX0M6h1Y",
+            "percent": 100,
+            "hz": 240
+        }
     ]
 }
