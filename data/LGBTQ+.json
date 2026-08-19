@@ -66,6 +66,11 @@
             "link": "https://youtube.com/watch/xpbfkqmJz2k",
             "percent": 100,
             "hz": 144
+        },
+        {   "user": "ploobie",
+            "link": "https://m.youtube.com/watch?v=_bpfB4FzPSA&ra=m",
+            "percent": 100,
+            "hz": 60
         }
     ]
 }
