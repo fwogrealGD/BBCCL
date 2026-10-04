@@ -61,8 +61,8 @@ export async function fetchLeaderboard() {
         console.log("LEVEL:", level.name);
 console.log("VERIFIER:", level.verifier);
 
-const verifier = Object.keys(scoreMap).find(
-    (u) => u.toLowerCase() === level.verifier.toLowerCase(),
+const verifier = editors.find(
+    u => u?.toLowerCase() === level.verifier?.toLowerCase()
 ) || level.verifier;
         scoreMap[verifier] ??= {
             verified: [],
