@@ -82,7 +82,7 @@ const verifier = Object.keys(scoreMap).find(
             console.log("RECORD USER:", record.user);
 
 const user = Object.keys(scoreMap).find(
-    (u) => u.toLowerCase() === record.user.toLowerCase(),
+    u?.toLowerCase() === level.verifier?.toLowerCase()
 ) || record.user;
             scoreMap[user] ??= {
                 verified: [],
