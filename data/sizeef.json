@@ -96,6 +96,18 @@
             "link": "https://youtu.be/nlLbDdn0Py4?si=hHIJsdqIpKdEjQvQ",
             "percent": 100,
             "hz": 60
+        },
+        {
+            "user": "vfoi",
+            "link": "https://www.youtube.com/watch?v=O6aFGk5AFLU",
+            "percent": 100,
+            "hz": 240
+        },
+        {
+            "user": "hapi",
+            "link": "https://www.youtube.com/watch?v=iwQsy_1DRQ0",
+            "percent": 100,
+            "hz": 60
         }
 
     ]
